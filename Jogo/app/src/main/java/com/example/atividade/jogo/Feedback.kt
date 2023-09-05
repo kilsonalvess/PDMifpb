@@ -1,4 +1,4 @@
-package com.example.arrocha.jogo
+package com.example.pdm.jogo
 
 enum class Feedback {
 
