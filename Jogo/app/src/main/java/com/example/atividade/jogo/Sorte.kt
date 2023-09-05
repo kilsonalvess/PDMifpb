@@ -1,4 +1,4 @@
-package com.example.arrocha.jogo
+package com.example.pdm.jogo
 import kotlin.random.Random.Default.nextInt
 
 class Sorte(var limiteInferior: Int, var limiteSuperior: Int, var numeroSorteado: Int = nextInt(limiteInferior, limiteSuperior)) {
