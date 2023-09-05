@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.arrocha'
+    namespace 'com.example.pdm'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.arrocha"
+        applicationId "com.example.pdm"
         minSdk 21
         targetSdk 33
         versionCode 1
