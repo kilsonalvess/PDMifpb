@@ -1,4 +1,4 @@
-package com.example.arrocha
+package com.example.pdm
 
 import org.junit.Test
 
