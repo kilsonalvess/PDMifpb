@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H2026" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Livro" representedClassName="Livro" syncable="YES" codeGenerationType="class">
+        <attribute name="autor" optional="YES" attributeType="String"/>
+        <attribute name="editora" optional="YES" attributeType="String"/>
+        <attribute name="emprestado" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="nome" optional="YES" attributeType="String"/>
+        <attribute name="status" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Livro" positionX="-63" positionY="-18" width="128" height="118"/>
+    </elements>
+</model>
